@@ -1,4 +1,4 @@
-FROM lab4p/devcontainer:base-1.0.0
+FROM lab4p/devcontainer:base-1.0.1
 
 ARG PYTHON_VER=3.9.2
 
